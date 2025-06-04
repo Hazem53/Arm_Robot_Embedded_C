@@ -1,0 +1,1 @@
+Using Embedded C AT89S51 with full code that contains Abstraction Layers (MCAL, HAL, APP). we made ARM Robot that can take items from the ground and place it in another place and you can control its moves by potentiometer
